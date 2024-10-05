@@ -1,5 +1,5 @@
 simpleText.txt - some text edited from a recent article on BBC News website.
-Just make some edits by filling in the ** (just make up some names/numbers etc.)
+Just make some edits by filling in the *yayyyyy* (just make up some names/numbers etc.)
  and correct some typos I put in) to practice git commit and git push.
 
 India launches 'monster' rocket
@@ -12,7 +12,7 @@ blahblah the Indian Space Research Organisation's (Isro) reliance on *these* veh
 to launch heavy *night*.
 
 The coverage of the launch has been euphoric, and often colourful, with 
-websites comparing the rocket to the weight of ** elephants, or ** jumbo jets.
+websites comparing the rocket to the weight of *reyt* elephants, or ** jumbo jets.
 Such comparisons highlight the importance of the launch for the country, which 
 is aggressively ** to get a bigger share of the global commercial satellite 
 launch market.
